@@ -46,7 +46,7 @@ public abstract class Pessoa implements Humano{
 
     @Override
     public void morrer() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        throw new UnsupportedOperationException("Not supported yet.");
     }
     
     
