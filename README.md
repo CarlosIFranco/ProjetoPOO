@@ -1,5 +1,5 @@
 # ProjetoPOO
-- TSI-3AN -
+- TSI-3AN
 
 Nome: Carlos Eduardo Ivankio Franco
 Projeto: Começou como um projeto envolvendo o tema "piadas" para aula de POO, no entanto para atender os requisitos pedidos foi expandido para um projeto de criação de shows, podendo ser ou um standUp ou um show de música.
